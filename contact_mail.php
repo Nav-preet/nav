@@ -29,7 +29,7 @@ $mail->SMTPOptions=array('ssl'=>array(
 if($mail->send()){
     echo "done";
 }else{
-    //echo "Error occur";
+    echo "Error occur";
 }
    
 ?>

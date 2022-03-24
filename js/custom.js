@@ -58,6 +58,7 @@ $(document).ready(function() {
             var email = $("#email").val();
             var subject = $("#subject").val();
             var message = $("#message").val();
+            const inputs = document.querySelectorAll('#name, #email,#subject, #message');
 			if(valid){
                 
                 $.ajax({
@@ -66,16 +67,21 @@ $(document).ready(function() {
                     data: "name="+name+"&email="+email+"&subject="+subject+"&message="+message,
                     success: function(result) {
                         if (result == "done") {
+                            inputs.forEach(input => {
+                                input.value = '';
+                              });
                             $(".form-inputs").css("display", "none");
                             $(".box p").css("display", "none");
                             $(".contactform").find(".output_message").addClass("success");
                             $(".output_message").text("Message Sent!");
+                            
                         } else {
                             $(".tabs-container").css("height", "440px");
 
                             $(".contactform").find(".output_message").addClass("error");
                             $(".output_message").text("Error Sending!");
                         }
+                       
                     }
 			    });
             }
