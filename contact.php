@@ -34,17 +34,17 @@
                     <form class="contactform" method="post">
                         <div class="contactform">
                             <div class="row">
-                                <div class="col-12 col-md-4">
+                                <div class="col-12 col-lg-4 col-sm-12 col-xs-12">
                                     <span class="name-error"></span>
                                     <input type="text" class="no-error" id="name" name="name" placeholder="YOUR NAME">
                                     
                                 </div>
-                                <div class="col-12 col-md-4">
+                                <div class="col-12 col-lg-4 col-sm-12 col-xs-12">
                                     <span class="email-error"></span>
                                     <input type="email" class="no-error" id="email" name="email" placeholder="YOUR EMAIL">
                                     
                                 </div>
-                                <div class="col-12 col-md-4">
+                                <div class="col-12 col-lg-4 col-sm-12 col-xs-12">
                                     <span class="subject-error"></span>
                                     <input type="text" class="no-error" id="subject" name="subject" placeholder="YOUR SUBJECT">
                                    
