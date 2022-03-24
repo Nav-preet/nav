@@ -13,11 +13,11 @@
                     <p class="open-sans-font mb-3">Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
                     <p class="open-sans-font custom-span-contact position-relative">
                         <i class="fa fa-envelope-open position-absolute"></i>
-                        <span class="d-block">mail me</span>nk.navpreet1994@gmail.com
+                        <span class="d-block">mail me</span><a href="mailto:nk.navpreet1994@gmail.com">nk.navpreet1994@gmail.com</a>
                     </p>
                     <p class="open-sans-font custom-span-contact position-relative">
                         <i class="fa fa-phone-square position-absolute"></i>
-                        <span class="d-block">call me</span>+1 647 863 6674
+                        <span class="d-block">call me</span><a href="tel:+1 647 863 6674">+1 647 863 6674</a>
                     </p>
                     <ul class="social list-unstyled pt-1 mb-5">
                         <li class="facebook"><a title="Facebook" href="https://www.facebook.com/profile.php?id=100048521424311"><i class="fa fa-facebook"></i></a>
