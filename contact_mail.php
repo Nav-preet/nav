@@ -1,13 +1,11 @@
 <?php
 include('smtp/PHPMailerAutoload.php');
-print_r($_POST);
-error_reporting(E_ALL);
-ini_set('display_errors', 1);
 $name = $_POST["name"];
 $email = $_POST["email"];
 $msg = $_POST["message"];
 $subject = $_POST["subject"];
 $mail=new PHPMailer(true);
+$mail->SMTPDebug  = 3;
 $mail->isSMTP();
 $mail->SMTPDebug = 1;
 $mail->Host="smtp.gmail.com";
@@ -20,6 +18,7 @@ $mail->SetFrom($email,$name);
 $mail->addReplyTo($email,$name);
 $mail->addAddress("navmashiana60@gmail.com",'me');
 $mail->IsHTML(true);
+$mail->CharSet = 'UTF-8';
 $mail->Subject=$subject;
 $bodyParagraphs = ["Name: {$name}", "Email: {$email}", "Message:", nl2br($msg)];
 $body = join('<br />', $bodyParagraphs);
