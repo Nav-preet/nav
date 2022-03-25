@@ -2,6 +2,12 @@
 <html lang="en">
 <head>
     <title>Navpreet Kaur</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.jpg">
+    <meta charset="UTF-8">
+    <meta name="description" content="Navpreet Kaur Portfilo Website">
+    <meta name="keywords" content="HTML, CSS, JavaScript, PHP, Wordpress">
+    <meta name="title" content="Navpreet Kaur">
+
     <link href="css/preloader.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
