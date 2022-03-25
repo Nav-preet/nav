@@ -7,7 +7,7 @@ $email = $_POST["email"];
 $msg = $_POST["message"];
 $subject = $_POST["subject"];
 $mail=new PHPMailer(true);
-//$mail->isSMTP();
+$mail->isSMTP();
 $mail->SMTPDebug = 1;
 $mail->Host="smtp.gmail.com";
 $mail->Port=587;
