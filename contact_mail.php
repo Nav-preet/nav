@@ -1,6 +1,6 @@
 <?php
 include('smtp/PHPMailerAutoload.php');
-echo($_POST);
+print_r($_POST);
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
 $name = $_POST["name"];
