@@ -87,20 +87,21 @@
                             </div>
                             <span class="time open-sans-font text-uppercase">2022 - PRESENT</span>
                             <h5 class="poppins-font text-uppercase">Web Developer/SEO Analyst <span class="place open-sans-font">BreezeMaxWeb, Etobicoke</span></h5>
-                            <p class="open-sans-font"><br/>
-                                                        · Experience working with websites using Wordpress, Squarespace, Webflow, Wix etc.                                                       <br/>
-                                                        <br/>
-                                                        <br/>
-                                                        ·  Analyze and implement efficient keywords to different client’s websites to increase the ranking on various search engines(especially Google).
-                                                        <br/>
-                                                        <br/>
-                                                        · Worked closely with content writers to add new blog posts to client’s website to increase traffic flow.
-                                                        <br/>
-                                                        <br/>
-                                                        · Design, analyze and implement efficient solutions based on user feedback to continually improve the visitors’ experience on websites both internal and external.
-                                                        <br/>
-                                                        <br/>
-                                                        · Analyzed websites by using tools such as Google Analytics, Search Console and Trailfire to prepare weekly reports.
+                            <p class="open-sans-font">
+                                <br/>
+                                · Experience working with websites using Wordpress, Squarespace, Webflow, Wix etc.                                                       
+                                <br/>
+                                <br/>
+                                ·  Analyze and implement efficient keywords to different client’s websites to increase the ranking on various search engines(especially Google).
+                                <br/>
+                                <br/>
+                                · Worked closely with content writers to add new blog posts to client’s website to increase traffic flow.
+                                <br/>
+                                <br/>
+                                · Design, analyze and implement efficient solutions based on user feedback to continually improve the visitors’ experience on websites both internal and external.
+                                <br/>
+                                <br/>
+                                · Analyzed websites by using tools such as Google Analytics, Search Console and Trailfire to prepare weekly reports.
 
                             </p>
                         </li>
@@ -112,17 +113,18 @@
                             <div class="icon">
                                 <i class="fa fa-briefcase"></i>
                             </div>
-                            <span class="time open-sans-font text-uppercase">August  2020 - August  2021</span>
+                            <span class="time open-sans-font text-uppercase">  2020 -   2021</span>
                             <h5 class="poppins-font text-uppercase">Front End Developer <span class="place open-sans-font">Cue Blocks Tech, India (Mohali)</span></h5>
-                            <p class="open-sans-font"><br/>
-                                                        · Developed user interfaces with modern JavaScript frameworks, HTML5, and CSS3, which improved user satisfaction. 
-                                                        <br/>
-                                                        <br/>
-                                                        · Created accessible, responsive, and functional user interfaces to allow visitors on any device to have the same perfect user experience. 
-                                                        <br/>
-                                                        <br/>
-                                                        · Collaborate with back-end developers and web designers to improve usability, Create quality mockups and prototypes.
-                                                        <br/>
+                            <p class="open-sans-font">
+                                <br/>
+                                · Developed user interfaces with modern JavaScript frameworks, HTML5, and CSS3, which improved user satisfaction. 
+                                <br/>
+                                <br/>
+                                · Created accessible, responsive, and functional user interfaces to allow visitors on any device to have the same perfect user experience. 
+                                <br/>
+                                <br/>
+                                · Collaborate with back-end developers and web designers to improve usability, Create quality mockups and prototypes.
+                                <br/>
                             </p>
                         </li>
                     </ul>
@@ -135,19 +137,20 @@
                             </div>
                             <span class="time open-sans-font text-uppercase">2018 - 2020</span>
                             <h5 class="poppins-font text-uppercase">Web Designer <span class="place open-sans-font">Inetweaver</span></h5>
-                            <p class="open-sans-font"><br/>
-                                                        · Creating mock-up using Photoshop, bringing mock-ups to life using HTML,
-                                                        CSS, JavaScript and Build websites using WordPress.<br/>
-                                                        <br/>
-                                                        · Collaborating closely with the team to support projects during all phases
-                                                        of delivery, Communicating technical issues in an understandable manner
-                                                        to the team and clients.<br/>
-                                                        <br/>
-                                                        · Building websites and apps that are responsive and usable and monitoring
-                                                        website performance and rectifying front-end-related issues.<br/>
-                                                        <br/>
-                                                        · Maintaining an organized workflow using a project management tool (like
-                                                        SVN).
+                            <p class="open-sans-font">
+                                <br/>
+                                · Creating mock-up using Photoshop, bringing mock-ups to life using HTML,
+                                CSS, JavaScript and Build websites using WordPress.<br/>
+                                <br/>
+                                · Collaborating closely with the team to support projects during all phases
+                                of delivery, Communicating technical issues in an understandable manner
+                                to the team and clients.<br/>
+                                <br/>
+                                · Building websites and apps that are responsive and usable and monitoring
+                                website performance and rectifying front-end-related issues.<br/>
+                                <br/>
+                                · Maintaining an organized workflow using a project management tool (like
+                                SVN).
                             </p>
                         </li>
                     </ul>
