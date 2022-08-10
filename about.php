@@ -46,7 +46,7 @@
                 <div class="row">    
                     <div class="col-6">
                         <div class="box-stats with-margin">
-                            <h3 class="poppins-font position-relative">HTML / CSS /<br/>JS</h3>
+                            <h3 class="poppins-font position-relative">HTML / CSS /JS</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">Front End <span class="d-block">Technologies</span></p>
                         </div>
                     </div>
@@ -64,7 +64,7 @@
                     </div>
                     <div class="col-6">
                         <div class="box-stats">
-                            <h3 class="poppins-font position-relative"> React / Git /<br/>SVN</h3>
+                            <h3 class="poppins-font position-relative"> React / Git / SVN</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">Other <span class="d-block">Technologies</span></p>
                         </div>
                     </div>
