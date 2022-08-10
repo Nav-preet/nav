@@ -46,25 +46,25 @@
                 <div class="row">    
                     <div class="col-6">
                         <div class="box-stats with-margin">
-                            <h3 class="poppins-font position-relative">HTML / CSS /<br/>JavaScript</h3>
+                            <h3 class="poppins-font position-relative">HTML / CSS /<br/>JS</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">Front End <span class="d-block">Technologies</span></p>
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="box-stats with-margin">
-                            <h3 class="poppins-font position-relative">PHP / MySQL /<br/></h3>
+                            <h3 class="poppins-font position-relative">jQuery / PHP / MySQL /<br/></h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">Backend language,database<span class="d-block">and CMS Knowledge</span></p>
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="box-stats">
-                            <h3 class="poppins-font position-relative">Wordpress/ SEO / React/<br/></h3>
+                            <h3 class="poppins-font position-relative">Wordpress/ SEO /<br/></h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">Proficient <span class="d-block">Knowledge</span></p>
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="box-stats">
-                            <h3 class="poppins-font position-relative"> / Git /<br/>SVN</h3>
+                            <h3 class="poppins-font position-relative"> React / Git /<br/>SVN</h3>
                             <p class="open-sans-font m-0 position-relative text-uppercase">Other <span class="d-block">Technologies</span></p>
                         </div>
                     </div>
